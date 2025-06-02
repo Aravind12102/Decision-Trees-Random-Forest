@@ -64,5 +64,4 @@ This project implements tree-based machine learning models to predict the presen
 
 ---
 
-## 📁 File Structure
 
