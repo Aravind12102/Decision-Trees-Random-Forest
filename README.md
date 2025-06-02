@@ -31,7 +31,7 @@ This project implements tree-based machine learning models to predict the presen
 
 ---
 
-## Project Workflow
+## Model Workflow
 
 ### Step 1: Load and Preprocess Data
 - Drop the target column to separate features (`X`) and labels (`y`)
